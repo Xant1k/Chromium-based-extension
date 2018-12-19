@@ -19,29 +19,29 @@
 | Cамый Простой Скриншот   |                                |                             | +                        |
 
 
-1. **Blipshot**
+**Blipshot**
 
-  - Opensource: https://github.com/folletto/Blipshot
+Opensource: https://github.com/folletto/Blipshot
 
 Имя сохраняемого файла выглядит следующим образом:
 
 > *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
 
-1. **Full Page Screen Capture**
-
+**Full Page Screen Capture**
+Opensource: https://github.com/mrcoles/full-page-screen-capture-chrome-extension
 Имя сохраняемого файла выглядит следующим образом:
 
 > *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
 
-1. **One-click Screenshot**
-
+**One-click Screenshot**
+Opensource: https://github.com/stefansundin/one-click-screenshot
 Имя сохраняемого файла выглядит следующим образом:
 
 > *Google Chrome Chromium ChromePlus SRWare Iron - [4] Тестирование Компьютерный форум Ru.Board.png*
 
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
 
-1. **Page Screenshot**
+**Page Screenshot**
 
 Имя сохраняемого файла выглядит следующим образом:
 
@@ -56,7 +56,7 @@
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
 
 **Screenshot Capture**
-
+Opensource: https://github.com/simov/screenshot-capture
 Имя сохраняемого файла выглядит следующим образом:
 
 > *Screenshot Capture - 2018-12-19 - 17-46-42.png*
