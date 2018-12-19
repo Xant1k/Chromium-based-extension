@@ -69,9 +69,11 @@ Opensource: https://github.com/simov/screenshot-capture
 
 **Webpage Screenshot**
 
+Opensource: https://github.com/1click-extensions/1click-webpage-screenshot
+
 Имя сохраняемого файла выглядит следующим образом:
 
-Google Chrome   Chromium   ChromePlus   SRWare Iron - [4     Тестирование    Компьютерный форум Ru.Board.png
+> Google Chrome   Chromium   ChromePlus   SRWare Iron - [4     Тестирование    Компьютерный форум Ru.Board.png
 
 **Cамый Простой Скриншот**
 
