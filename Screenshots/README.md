@@ -28,13 +28,17 @@ Opensource: https://github.com/folletto/Blipshot
 > *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
 
 **Full Page Screen Capture**
+
 Opensource: https://github.com/mrcoles/full-page-screen-capture-chrome-extension
+
 Имя сохраняемого файла выглядит следующим образом:
 
 > *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
 
 **One-click Screenshot**
+
 Opensource: https://github.com/stefansundin/one-click-screenshot
+
 Имя сохраняемого файла выглядит следующим образом:
 
 > *Google Chrome Chromium ChromePlus SRWare Iron - [4] Тестирование Компьютерный форум Ru.Board.png*
@@ -56,10 +60,18 @@ Opensource: https://github.com/stefansundin/one-click-screenshot
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
 
 **Screenshot Capture**
+
 Opensource: https://github.com/simov/screenshot-capture
+
 Имя сохраняемого файла выглядит следующим образом:
 
 > *Screenshot Capture - 2018-12-19 - 17-46-42.png*
+
+**Webpage Screenshot**
+
+Имя сохраняемого файла выглядит следующим образом:
+
+Google Chrome   Chromium   ChromePlus   SRWare Iron - [4     Тестирование    Компьютерный форум Ru.Board.png
 
 **Cамый Простой Скриншот**
 
