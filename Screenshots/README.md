@@ -21,9 +21,9 @@
 
 1. **Blipshot**
 
-Имя сохраняемого файла выглядит следующим образом:
+...Имя сохраняемого файла выглядит следующим образом:
 
-> *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
+...> *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
 
 2. **Full Page Screen Capture**
 
