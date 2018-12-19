@@ -65,8 +65,9 @@
 > *SimpleScreenShot_1545216479946.png*
 
 URL который использовался для тестирования https://forum.ru-board.com/topic.cgi?forum=2&topic=4971&start=60#20
-имеет название Google Chrome Chromium ChromePlus SRWare Iron - [4] :: Тестирование :: Компьютерный форум Ru.Board.png
-Символы *::* Windows не даёт использовать в именах файлов, в результате чего они просто обрезаются при сохранении файла.
+имеет название *Google Chrome Chromium ChromePlus SRWare Iron - [4] :: Тестирование :: Компьютерный форум Ru.Board.png*
+
+Символы ***::*** Windows не даёт использовать в именах файлов, в результате чего они просто обрезаются при сохранении файла.
 
 * * *
 
