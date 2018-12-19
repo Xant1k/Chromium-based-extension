@@ -20,15 +20,15 @@
 
 * **Blipshot**
 
---- Имя сохраняемого файла выглядит следующим образом:
+Имя сохраняемого файла выглядит следующим образом:
 
---- > *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
+> *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
 
 * **Full Page Screen Capture**
 
---- Имя сохраняемого файла выглядит следующим образом:
+Имя сохраняемого файла выглядит следующим образом:
 
---- > *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
+> *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
 
 **One-click Screenshot**
 
