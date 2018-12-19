@@ -21,17 +21,19 @@
 
 1. **Blipshot**
 
-...Имя сохраняемого файла выглядит следующим образом:
+  - Opensource: https://github.com/folletto/Blipshot
 
-...> *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
+Имя сохраняемого файла выглядит следующим образом:
 
-2. **Full Page Screen Capture**
+> *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
+
+1. **Full Page Screen Capture**
 
 Имя сохраняемого файла выглядит следующим образом:
 
 > *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
 
-**One-click Screenshot**
+1. **One-click Screenshot**
 
 Имя сохраняемого файла выглядит следующим образом:
 
@@ -39,7 +41,7 @@
 
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
 
-**Page Screenshot**
+1. **Page Screenshot**
 
 Имя сохраняемого файла выглядит следующим образом:
 
