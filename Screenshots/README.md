@@ -19,7 +19,7 @@
 
 Имя сохраняемого файла выглядит следующим образом:
 
-pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png
+*pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
 
 
 **Full Page Screen Capture**
@@ -28,12 +28,11 @@ pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 201
 
 *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
 
-
 **One-click Screenshot**
 
 Имя сохраняемого файла выглядит следующим образом:
 
-*Google Chrome   Chromium   ChromePlus   SRWare Iron - [4     Тестирование    Компьютерный форум Ru.Board.png*
+*Google Chrome Chromium ChromePlus SRWare Iron - [4] Тестирование Компьютерный форум Ru.Board.png*
 
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
 
