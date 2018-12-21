@@ -20,11 +20,12 @@
 
 
 #### Blipshot
-
-&nbsp;&nbsp;Opensource: https://github.com/folletto/Blipshot
+<p>
+&nbsp;&nbsp; Opensource: https://github.com/folletto/Blipshot
 
 Имя сохраняемого файла выглядит следующим образом:<br>
 > *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
+</p>
 
 #### Full Page Screen Capture
 
