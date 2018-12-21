@@ -19,20 +19,18 @@
 | Cамый Простой Скриншот   |                                |                             | +                        |
 
 
-**Blipshot**
+#### Blipshot
 
-Opensource: https://github.com/folletto/Blipshot
+&nbsp;&nbsp;Opensource: https://github.com/folletto/Blipshot
 
-Имя сохраняемого файла выглядит следующим образом:
-
+Имя сохраняемого файла выглядит следующим образом:<br>
 > *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
 
-**Full Page Screen Capture**
+#### Full Page Screen Capture
 
 Opensource: https://github.com/mrcoles/full-page-screen-capture-chrome-extension
 
-Имя сохраняемого файла выглядит следующим образом:
-
+Имя сохраняемого файла выглядит следующим образом:<br>
 > *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
 
 **One-click Screenshot**
