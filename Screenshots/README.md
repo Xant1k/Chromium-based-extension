@@ -16,18 +16,9 @@
 | Webpage Screenshot       | +                              | +                           | +                        |
 | Cамый Простой Скриншот   |                                |                             | +                        |
 
+#### One-click Screenshot
 
-#### Blipshot
-
-- **Opensource: https://github.com/folletto/Blipshot**
-
-- **Имя сохраняемого файла выглядит следующим образом:**
-
-> *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
-
-**One-click Screenshot**
-
-Opensource: https://github.com/stefansundin/one-click-screenshot
+- ** opensource: https://github.com/stefansundin/one-click-screenshot**
 
 Имя сохраняемого файла выглядит следующим образом:
 
