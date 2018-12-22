@@ -18,7 +18,7 @@
 
 #### One-click Screenshot
 
-- ** opensource: https://github.com/stefansundin/one-click-screenshot**
+- **opensource: https://github.com/stefansundin/one-click-screenshot**
 
 Имя сохраняемого файла выглядит следующим образом:
 
@@ -33,14 +33,6 @@
 > *Google_Chrome_Chromium_ChromePlus_SRWare_Iron_-\_[4]\_Тестирование_Компьютерный_форум_Ru.Board_-_2018-12-19_19.53.02.png*
 
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
-
-**Screenshot Capture**
-
-Opensource: https://github.com/simov/screenshot-capture
-
-Имя сохраняемого файла выглядит следующим образом:
-
-> *Screenshot Capture - 2018-12-19 - 17-46-42.png*
 
 **Webpage Screenshot**
 
