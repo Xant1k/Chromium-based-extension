@@ -25,15 +25,6 @@
 
 > *pageshot of 'Google Chrome Chromium ChromePlus SRWare Iron - [4] Ru Board' @ 2018-12-19-1733'09.png*
 
-
-#### Full Page Screen Capture
-
-Opensource: https://github.com/mrcoles/full-page-screen-capture-chrome-extension
-
-Имя сохраняемого файла выглядит следующим образом:
-
-> *screencapture-forum-ru-board-topic-cgi-2018-12-19-17_39_41.png*
-
 **One-click Screenshot**
 
 Opensource: https://github.com/stefansundin/one-click-screenshot
@@ -43,12 +34,6 @@ Opensource: https://github.com/stefansundin/one-click-screenshot
 > *Google Chrome Chromium ChromePlus SRWare Iron - [4] Тестирование Компьютерный форум Ru.Board.png*
 
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
-
-**Page Screenshot**
-
-Имя сохраняемого файла выглядит следующим образом:
-
-> *forum.ru-board.com-GoogleChromeChromiumChromePlusSRWareIron-[4]ТестированиеКомпьютерныйфорумRu.Board.png*
 
 **Screengrab**
 
@@ -73,15 +58,6 @@ Opensource: https://github.com/1click-extensions/1click-webpage-screenshot
 Имя сохраняемого файла выглядит следующим образом:
 
 > Google Chrome   Chromium   ChromePlus   SRWare Iron - [4     Тестирование    Компьютерный форум Ru.Board.png
-
-**Cамый Простой Скриншот**
-
-Имя сохраняемого файла выглядит следующим образом:
-
-> *SimpleScreenShot_1545216479946.png*
-
-URL который использовался для тестирования https://forum.ru-board.com/topic.cgi?forum=2&topic=4971&start=60#20
-имеет название *Google Chrome / Chromium / ChromePlus / SRWare Iron - [4] :: Тестирование :: Компьютерный форум Ru.Board.png*
 
 Символы «**/**» и «**::**» Windows не даёт использовать в именах файлов, в результате чего они просто обрезаются при сохранении файла.
 
