@@ -18,8 +18,6 @@
 
 #### One-click Screenshot
 
-- **opensource: https://github.com/stefansundin/one-click-screenshot**
-
 Имя сохраняемого файла выглядит следующим образом:
 
 > *Google Chrome Chromium ChromePlus SRWare Iron - [4] Тестирование Компьютерный форум Ru.Board.png*
@@ -35,8 +33,6 @@
 Позволяет делать скриншоты на служебных страницах, но только видимой области.
 
 **Webpage Screenshot**
-
-Opensource: https://github.com/1click-extensions/1click-webpage-screenshot
 
 Имя сохраняемого файла выглядит следующим образом:
 
