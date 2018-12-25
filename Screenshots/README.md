@@ -35,6 +35,8 @@
 
 > Google Chrome   Chromium   ChromePlus   SRWare Iron - [4     Тестирование    Компьютерный форум Ru.Board.png
 
+* * *
+
 Для тестирования использовалась страница https://forum.ru-board.com/topic.cgi?forum=2&topic=4971&start=60#20
 
 Символы «**/**» и «**::**» Windows не даёт использовать в именах файлов, в результате чего они просто обрезаются при сохранении файла.
