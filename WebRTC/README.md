@@ -6,7 +6,6 @@
 - https://diafygi.github.io/webrtc-ips/
 - https://www.browserleaks.com/webrtc
 - https://www.ip-secrets.com/
-- https://privacytoolsio.github.io/privacytools.io/webrtc.html
 - https://www.perfect-privacy.com/webrtc-leaktest/
 - https://hidester.com/webrtc-ip-leak-test/
 - http://net.ipcalf.com/
