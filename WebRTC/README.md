@@ -8,7 +8,7 @@
 - https://www.ip-secrets.com/
 - https://www.perfect-privacy.com/webrtc-leaktest/
 - https://hidester.com/webrtc-ip-leak-test/
-- http://net.ipcalf.com/
+- https://net.ipcalf.com/
 - https://ip.voidsec.com/
 
 А ещё проверить включён или выключен WebRTC в браузере можно тут:
