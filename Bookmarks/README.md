@@ -199,6 +199,18 @@ Open the new tabs in background
 Можно взять код из Context Bookmarks https://chrome.google.com/webstore/detail/context-bookmarks/ednnkpljcbpjcoplcooifiblghkephlh
 
 
+Bookmark Navigator
+https://chrome.google.com/webstore/detail/bookmark-navigator/jnldllmpcebljljmihdlcoabgfcpbenp
+
+https://github.com/DcFanoiD/bookmark-navigator
+
+Quick Bookmarks Menu
+https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf
+
+https://github.com/flyhaozi/Quick-Bookmarks-Menu
+
+
+
 **1. Закладки**
 
 https://addons.opera.com/extensions/details/bookmarks-2/
