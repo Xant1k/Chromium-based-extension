@@ -210,6 +210,18 @@ https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabed
 https://github.com/flyhaozi/Quick-Bookmarks-Menu
 
 
+https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmklpihb?hl=en
+
+
+https://chrome.google.com/webstore/detail/export-selective-bookmark/ahgbiciilcpclcekhegbhofljoolnfei
+
+
+https://chrome.google.com/webstore/detail/bookmark-manager-extensio/ldkmjjdogcmjleplambebddifhlckpnj
+
+
+https://chrome.google.com/webstore/detail/bookmark-backup/eocfcfklbhdgkilphhkcpcgaollminlf
+
+
 
 **1. Закладки**
 
