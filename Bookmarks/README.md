@@ -295,14 +295,6 @@ https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcc
 Средняя кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
 Правая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
 
-Context Bookmarks
-
-https://chrome.google.com/webstore/detail/context-bookmarks/ednnkpljcbpjcoplcooifiblghkephlh
-
-Omnibox
-Open links in new tabs
-Open the new tabs in background
-
 Bookmark Navigator
 
 https://chrome.google.com/webstore/detail/bookmark-navigator/jnldllmpcebljljmihdlcoabgfcpbenp
