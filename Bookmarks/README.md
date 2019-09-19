@@ -55,70 +55,6 @@
 
 Какое расширение фокрнуть и на его основное создать новое дополнив необходимым функционалом решать вам.
 
-**NetMarks**
-
-https://chrome.google.com/webstore/detail/netmarks-bookmarks-menu/boepmphdpbdnficfifejnkejlljcefjb
-
-https://github.com/nmalcev/netmarks
-
-Левый клик откроет закладку в новой вкладке
-Клик средней кнопкой мыши открывает закладки в новой фоновой вкладке
-Закрыть неиспользуемые папки когда открыта папка
-Оставить окно открытым при открытий (ЛКМ) вкладок
-Подтверждающее сообщение при открытии большого количества закладок из папки
-Запомнить предыдущую позицию (позицию прокрутки и открытие папки)
-
-Bookmarks Menu
-
-https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcckdpempkdi/ или гавно-форк http://game-edition.ru/internet/rasshirenie-dlya-chrome-smajly-onlajn/msg23464/#msg23464
-
-Настройка меню закладок
-Показывать всплывающую подсказку для длинных названий
-Показывать всплывающую подсказку c адресом закладки
-
-Шрифт
-Размер шрифта
-Ширина и высота иконок
-Максмальная ширина закладок
-Ширина полосы прокрутки
-
-Настройки контекстного меню
-Скрыть пункт 'Открыть в режиме инкогнито'
-
-Мышь
-Настройка жестов мыши
-Левая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
-Средняя кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
-Правая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
-
-Context Bookmarks
-
-https://chrome.google.com/webstore/detail/context-bookmarks/ednnkpljcbpjcoplcooifiblghkephlh
-
-Omnibox
-Open links in new tabs
-Open the new tabs in background
-
-Bookmark Navigator
-
-https://chrome.google.com/webstore/detail/bookmark-navigator/jnldllmpcebljljmihdlcoabgfcpbenp
-
-https://github.com/DcFanoiD/bookmark-navigator
-
-Quick Bookmarks Menu
-
-https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf
-
-https://github.com/flyhaozi/Quick-Bookmarks-Menu
-
-https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmklpihb
-
-https://chrome.google.com/webstore/detail/export-selective-bookmark/ahgbiciilcpclcekhegbhofljoolnfei
-
-https://chrome.google.com/webstore/detail/bookmark-manager-extensio/ldkmjjdogcmjleplambebddifhlckpnj
-
-https://chrome.google.com/webstore/detail/bookmark-backup/eocfcfklbhdgkilphhkcpcgaollminlf
-
 **1. Закладки**
 
 https://addons.opera.com/extensions/details/bookmarks-2/
@@ -238,7 +174,7 @@ http://kuchkan.cf/neat-bookmarks-ru/
 * Изменение масштаба во всплывающем окне
 * Восстановить настройки по умолчанию
 
-**5.Закладки**
+**5. Закладки**
 
 https://chrome.google.com/webstore/detail/bookmarks/nciallonbllgijobgkfanodhehkkkkki
 
@@ -261,7 +197,7 @@ https://chrome.google.com/webstore/detail/bookmarks/nciallonbllgijobgkfanodhehkk
 * Левой кнопкой мыши открывать ссылки в текущей вкладке
 * Средней кнопкой мыши открывать ссылки в качестве новой активной вкладки
 
-**6.Popup my Bookmarks**
+**6. Popup my Bookmarks**
 
 https://chrome.google.com/webstore/detail/popup-my-bookmarks/mppflflkbbafeopeoeigkbbdjdbeifni
 
@@ -322,3 +258,67 @@ https://github.com/foray1010/Popup-my-Bookmarks
 -Фоновая вкладка (без закрытия)
 -Новое окно
 -Окно инкогнито
+
+**NetMarks**
+
+https://chrome.google.com/webstore/detail/netmarks-bookmarks-menu/boepmphdpbdnficfifejnkejlljcefjb
+
+https://github.com/nmalcev/netmarks
+
+Левый клик откроет закладку в новой вкладке
+Клик средней кнопкой мыши открывает закладки в новой фоновой вкладке
+Закрыть неиспользуемые папки когда открыта папка
+Оставить окно открытым при открытий (ЛКМ) вкладок
+Подтверждающее сообщение при открытии большого количества закладок из папки
+Запомнить предыдущую позицию (позицию прокрутки и открытие папки)
+
+Bookmarks Menu
+
+https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcckdpempkdi/ или гавно-форк http://game-edition.ru/internet/rasshirenie-dlya-chrome-smajly-onlajn/msg23464/#msg23464
+
+Настройка меню закладок
+Показывать всплывающую подсказку для длинных названий
+Показывать всплывающую подсказку c адресом закладки
+
+Шрифт
+Размер шрифта
+Ширина и высота иконок
+Максмальная ширина закладок
+Ширина полосы прокрутки
+
+Настройки контекстного меню
+Скрыть пункт 'Открыть в режиме инкогнито'
+
+Мышь
+Настройка жестов мыши
+Левая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
+Средняя кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
+Правая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
+
+Context Bookmarks
+
+https://chrome.google.com/webstore/detail/context-bookmarks/ednnkpljcbpjcoplcooifiblghkephlh
+
+Omnibox
+Open links in new tabs
+Open the new tabs in background
+
+Bookmark Navigator
+
+https://chrome.google.com/webstore/detail/bookmark-navigator/jnldllmpcebljljmihdlcoabgfcpbenp
+
+https://github.com/DcFanoiD/bookmark-navigator
+
+Quick Bookmarks Menu
+
+https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf
+
+https://github.com/flyhaozi/Quick-Bookmarks-Menu
+
+https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmklpihb
+
+https://chrome.google.com/webstore/detail/export-selective-bookmark/ahgbiciilcpclcekhegbhofljoolnfei
+
+https://chrome.google.com/webstore/detail/bookmark-manager-extensio/ldkmjjdogcmjleplambebddifhlckpnj
+
+https://chrome.google.com/webstore/detail/bookmark-backup/eocfcfklbhdgkilphhkcpcgaollminlf
