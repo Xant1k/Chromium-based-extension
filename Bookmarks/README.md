@@ -26,7 +26,9 @@
 * Чтобы открыть все закладки в папке, нажмите среднюю кнопку мыши
 * Открывать ссылки 2-ым щелчком, а не одинарным, тогда ссылками было бы удобнее манипулировать (перетаскивать, выделять несколько...)
 
-При работе с директориями теперь возможно два сценария поведений - помещение закладок в директорию (при перетаскивании на текст названия директории) и перемещение закладок на позицию следующую за выбранной директорией. 
+При работе с папками теперь возможно два сценария поведений - помещение закладок в папку (при перетаскивании на текст названия папки) и перемещение закладок на позицию следующую за выбранной папкой.
+
+Кнопка отчистки строк поиска
 
 - Внешний вид:
 	- Возможность задать свой размер окна
@@ -68,7 +70,7 @@ https://github.com/nmalcev/netmarks
 
 Bookmarks Menu
 
-https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcckdpempkdi/ или гавно-форка http://game-edition.ru/internet/rasshirenie-dlya-chrome-smajly-onlajn/msg23464/#msg23464
+https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcckdpempkdi/ или гавно-форк http://game-edition.ru/internet/rasshirenie-dlya-chrome-smajly-onlajn/msg23464/#msg23464
 
 Настройка меню закладок
 Показывать всплывающую подсказку для длинных названий
@@ -90,6 +92,7 @@ https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcc
 Правая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
 
 Context Bookmarks
+
 https://chrome.google.com/webstore/detail/context-bookmarks/ednnkpljcbpjcoplcooifiblghkephlh
 
 Omnibox
@@ -107,7 +110,6 @@ Quick Bookmarks Menu
 https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf
 
 https://github.com/flyhaozi/Quick-Bookmarks-Menu
-
 
 https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmklpihb
 
