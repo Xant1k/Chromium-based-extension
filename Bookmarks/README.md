@@ -314,5 +314,3 @@ https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmk
 https://chrome.google.com/webstore/detail/export-selective-bookmark/ahgbiciilcpclcekhegbhofljoolnfei
 
 https://chrome.google.com/webstore/detail/bookmark-manager-extensio/ldkmjjdogcmjleplambebddifhlckpnj
-
-https://chrome.google.com/webstore/detail/bookmark-backup/eocfcfklbhdgkilphhkcpcgaollminlf
