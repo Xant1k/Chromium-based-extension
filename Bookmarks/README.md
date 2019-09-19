@@ -312,5 +312,3 @@ https://github.com/flyhaozi/Quick-Bookmarks-Menu
 https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmklpihb
 
 https://chrome.google.com/webstore/detail/export-selective-bookmark/ahgbiciilcpclcekhegbhofljoolnfei
-
-https://chrome.google.com/webstore/detail/bookmark-manager-extensio/ldkmjjdogcmjleplambebddifhlckpnj
