@@ -55,62 +55,6 @@
 
 Какое расширение фокрнуть и на его основное создать новое дополнив необходимым функционалом решать вам.
 
-
-**5.Закладки**
-
-https://chrome.google.com/webstore/detail/bookmarks/nciallonbllgijobgkfanodhehkkkkki
-
-- Операции над папкой с закладками:
-	- Переименовать
-	- Создать папку (папка будет создана на том же уровне, т. е. следом)
-	- Удалить
-
-- Операции над закладкой:
-	- Открыть в новом окне
-	- Открыть в режиме инкогнито
-	- Переименовать
-	- Редактировать ссылку
-	- Удалить
-	- Создать папку (папка будет создана внутри текущей)
-
-В настройках доступны следующие опции:
-* При переходе по закладке оставлять всплывающее окно открытым
-* Закрыть неиспользуемые открытие папки при навигации
-* Левой кнопкой мыши открывать ссылки в текущей вкладке
-* Средней кнопкой мыши открывать ссылки в качестве новой активной вкладки
-
-**6.Popup my Bookmarks**
-
-https://chrome.google.com/webstore/detail/popup-my-bookmarks/mppflflkbbafeopeoeigkbbdjdbeifni
-
-https://github.com/foray1010/Popup-my-Bookmarks
-
-- Операции над папкой с закладками:
-	- Открыть все закладки
-	- Открыть все закладки в новом окне
-	- Открыть все закладки в режиме инкогнито
-	- Переименовать
-	- Удалить
-	- 
-
-- Операции над закладкой:
-	- Открыть в фоновой вкладке
-	- Открыть в новом окне
-	- Открыть в режиме инкогнито
-	- Изменить...
-	- Удалить
-	- Вырезать
-	- Копировать
-	- Вставить
-	- Добавить текущую страницу
-	- Добавить папку (будет добавлена в текущую папку)
-
-В настройках доступны следующие опции:
-UI:
-Ширина панели
-Размер шрифта
-Шрифт
-
 https://chrome.google.com/webstore/detail/netmarks-bookmarks-menu/boepmphdpbdnficfifejnkejlljcefjb
 
 https://github.com/nmalcev/netmarks
@@ -122,8 +66,8 @@ https://github.com/nmalcev/netmarks
 Подтверждающее сообщение при открытии большого количества закладок из папки
 Запомнить предыдущую позицию (позицию прокрутки и открытие папки)
 
-
 Neat Bookmark
+
 http://kuchkan.ml/obnovlen-neat-bookmarks-ru-do-v-2-1/
 
 Настройка меню закладок
@@ -139,7 +83,6 @@ http://kuchkan.ml/obnovlen-neat-bookmarks-ru-do-v-2-1/
 Настройки контекстного меню
 Скрыть пункт 'Открыть в режиме инкогнито'
 
-
 Мышь
 Настройка жестов мыши
 Левая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
@@ -153,27 +96,26 @@ Open links in new tabs
 Open the new tabs in background
 Можно взять код из Context Bookmarks https://chrome.google.com/webstore/detail/context-bookmarks/ednnkpljcbpjcoplcooifiblghkephlh
 
-
 Bookmark Navigator
+
 https://chrome.google.com/webstore/detail/bookmark-navigator/jnldllmpcebljljmihdlcoabgfcpbenp
 
 https://github.com/DcFanoiD/bookmark-navigator
 
 Quick Bookmarks Menu
+
 https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf
 
 https://github.com/flyhaozi/Quick-Bookmarks-Menu
 
 
-https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmklpihb?hl=en
+https://chrome.google.com/webstore/detail/vbookmarks/odhjcodnoebmndcihdedenkmdmklpihb
 
 https://chrome.google.com/webstore/detail/export-selective-bookmark/ahgbiciilcpclcekhegbhofljoolnfei
 
 https://chrome.google.com/webstore/detail/bookmark-manager-extensio/ldkmjjdogcmjleplambebddifhlckpnj
 
 https://chrome.google.com/webstore/detail/bookmark-backup/eocfcfklbhdgkilphhkcpcgaollminlf
-
-https://chrome.google.com/webstore/detail/bookmarks/nciallonbllgijobgkfanodhehkkkkki?hl=ru
 
 
 Меню управление
@@ -343,3 +285,58 @@ http://kuchkan.cf/neat-bookmarks-ru/
 * Изменение шрифта во всплывающем окне
 * Изменение масштаба во всплывающем окне
 * Восстановить настройки по умолчанию
+
+**5.Закладки**
+
+https://chrome.google.com/webstore/detail/bookmarks/nciallonbllgijobgkfanodhehkkkkki
+
+- Операции над папкой с закладками:
+	- Переименовать
+	- Создать папку (папка будет создана на том же уровне, т. е. следом)
+	- Удалить
+
+- Операции над закладкой:
+	- Открыть в новом окне
+	- Открыть в режиме инкогнито
+	- Переименовать
+	- Редактировать ссылку
+	- Удалить
+	- Создать папку (папка будет создана внутри текущей)
+
+В настройках доступны следующие опции:
+* При переходе по закладке оставлять всплывающее окно открытым
+* Закрыть неиспользуемые открытие папки при навигации
+* Левой кнопкой мыши открывать ссылки в текущей вкладке
+* Средней кнопкой мыши открывать ссылки в качестве новой активной вкладки
+
+**6.Popup my Bookmarks**
+
+https://chrome.google.com/webstore/detail/popup-my-bookmarks/mppflflkbbafeopeoeigkbbdjdbeifni
+
+https://github.com/foray1010/Popup-my-Bookmarks
+
+- Операции над папкой с закладками:
+	- Открыть все закладки
+	- Открыть все закладки в новом окне
+	- Открыть все закладки в режиме инкогнито
+	- Переименовать
+	- Удалить
+	- 
+
+- Операции над закладкой:
+	- Открыть в фоновой вкладке
+	- Открыть в новом окне
+	- Открыть в режиме инкогнито
+	- Изменить...
+	- Удалить
+	- Вырезать
+	- Копировать
+	- Вставить
+	- Добавить текущую страницу
+	- Добавить папку (будет добавлена в текущую папку)
+
+В настройках доступны следующие опции:
+- UI:
+	- Ширина панели
+	- Размер шрифта
+	- Шрифт
