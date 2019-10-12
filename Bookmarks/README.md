@@ -108,6 +108,8 @@ https://chrome.google.com/webstore/detail/mhophkifmlkobgkeahlhcdnjadcpmlbp
 
 https://chrome.google.com/webstore/detail/searchable-bookmarks-mana/gkmpffgkcfcacjgaaafchfnnjghddmff
 
+Есть поиск по имемни среди закладок и выполнение различных действий над ними.
+
 В настройках доступны следующие опции:
 * Выбрать какую папку показывать по умолчанию
 * Выбрать какие папки скрыть из выдачи
