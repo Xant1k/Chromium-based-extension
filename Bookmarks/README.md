@@ -358,6 +358,10 @@ https://github.com/nmalcev/netmarks
 https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcckdpempkdi/ или гавно-форк http://game-edition.ru/internet/rasshirenie-dlya-chrome-smajly-onlajn/msg23464/#msg23464
 
 В настройках доступны следующие опции:
+
+Выберите закладки, которые нужно показывать
+
+Настройка меню закладок
 * Показывать всплывающую подсказку для длинных названий
 * Показывать всплывающую подсказку c адресом закладки
 * Размер шрифта
@@ -365,23 +369,24 @@ https://chrome.google.com/webstore/detail/bookmarks-menu/ffmdedmghpoipeldijkdlcc
 * Максмальная ширина закладок
 * Ширина полосы прокрутки
 * Выберите закладки, которые нужно показывать
-* Переключаться на открываемую вкладку
 
 Настройки контекстного меню
-Скрыть пункт 'Открыть в режиме инкогнито'
+	- Скрыть пункт 'Открыть в режиме инкогнито'
 
 - Настройка жестов мыши
-	- Левая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
-	- Средняя кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
-	- Правая кнопка: открыть в текущей вкладке, показать в новой вкладке, показать контекстное меню
+	- Левая кнопка: открыть в текущей вкладке, открыть в новой вкладке, показать контекстное меню
+	- Средняя кнопка: открыть в текущей вкладке, открыть в новой вкладке, показать контекстное меню
+	- Правая кнопка: открыть в текущей вкладке, открыть в новой вкладке, показать контекстное меню
 
-Bookmark Navigator
+	- Переключаться на открываемую вкладку
+
+**11. Bookmark Navigator**
 
 https://chrome.google.com/webstore/detail/bookmark-navigator/jnldllmpcebljljmihdlcoabgfcpbenp
 
 https://github.com/DcFanoiD/bookmark-navigator
 
-Quick Bookmarks Menu
+**12. Quick Bookmarks Menu**
 
 https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf
 
