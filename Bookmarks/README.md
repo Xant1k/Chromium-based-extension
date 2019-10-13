@@ -210,6 +210,8 @@ https://chrome.google.com/webstore/detail/bookmarks/nciallonbllgijobgkfanodhehkk
 * Левой кнопкой мыши открывать ссылки в текущей вкладке
 * Средней кнопкой мыши открывать ссылки в качестве новой активной вкладки
 
+При 20к закладках между кликом на иконку расширения и появлением меню проходит ~1 сек. Скорость открытия папки с 15к закладок ~10 сек. Прокрутка внутри папок с большим закладок лагает.
+
 **6. Popup my Bookmarks**
 
 https://chrome.google.com/webstore/detail/popup-my-bookmarks/mppflflkbbafeopeoeigkbbdjdbeifni
