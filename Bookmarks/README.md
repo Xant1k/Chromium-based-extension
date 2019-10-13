@@ -272,6 +272,8 @@ https://github.com/foray1010/Popup-my-Bookmarks
 -Новое окно
 -Окно инкогнито
 
+При 20к закладках между кликом на иконку расширения и появлением меню проходит ~1-1.5 сек. Прокрутка внутри папок с большим закладок быстрая и плавная.
+
 **7. Export Selective Bookmarks**
 
 https://chrome.google.com/webstore/detail/export-selective-bookmark/ahgbiciilcpclcekhegbhofljoolnfei
