@@ -11,3 +11,9 @@ https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkd
 И другие опций:
 Сохранять закреплённые вкладки как обычные
 Испорт и экспорт сессии в текстовый файл
+
+Snap Tabs
+https://chrome.google.com/webstore/detail/snap-tabs/ahdkdfkmnnajppjaplihhalkhohchaej
+Сохранение всех открытых вкладок. Назначение им даты и времени. Одновременное открытие или удаление всех вкладок.
+Добавление даты по кнопке к сессии
+Просмотр сессии в раскрывающемся списке
