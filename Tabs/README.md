@@ -17,3 +17,6 @@ https://chrome.google.com/webstore/detail/snap-tabs/ahdkdfkmnnajppjaplihhalkhohc
 Сохранение всех открытых вкладок. Назначение им даты и времени. Одновременное открытие или удаление всех вкладок.
 Добавление даты по кнопке к сессии
 Просмотр сессии в раскрывающемся списке
+
+Session Manager
+https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc
