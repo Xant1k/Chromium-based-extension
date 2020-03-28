@@ -20,3 +20,7 @@ https://chrome.google.com/webstore/detail/snap-tabs/ahdkdfkmnnajppjaplihhalkhohc
 
 Session Manager
 https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc
+
+TidyTab
+https://chrome.google.com/webstore/detail/tidytab/lkglfdjcamhjoggmabobhggmpfjhccff
+https://github.com/eggplanetio/tidytab
