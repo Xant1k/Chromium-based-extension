@@ -24,3 +24,5 @@ https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkd
 TidyTab
 https://chrome.google.com/webstore/detail/tidytab/lkglfdjcamhjoggmabobhggmpfjhccff
 https://github.com/eggplanetio/tidytab
+Молча отбрасывать дубли. Когда эта опция включена, расширение просмотрит ваши закладки и проверит, сохранили ли вы уже текущую вкладку. Если это так, то она будет очищена, но не сохранена.
+В меню расширения можно выбрать добавить все остальные вкладки, текущую или владки слева/справа.
