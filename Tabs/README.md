@@ -20,7 +20,8 @@ https://chrome.google.com/webstore/detail/snap-tabs/ahdkdfkmnnajppjaplihhalkhohc
 
 Session Manager
 https://chrome.google.com/webstore/detail/session-manager/mghenlmbmjcpehccoangkdpagbcbkdpc
-
+Открыть в обычном/инкогнито окне с помощью горячих клавиш <none>, click, shift+click, ctrl/cmd+click, alt/opt+click
+  
 TidyTab
 https://chrome.google.com/webstore/detail/tidytab/lkglfdjcamhjoggmabobhggmpfjhccff
 https://github.com/eggplanetio/tidytab
