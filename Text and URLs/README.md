@@ -13,6 +13,22 @@
 вставка средней кнопкой мыши
 копирование без форматирования
 
+Формат копируемых строк
+copy: copy simple copies only URL links to the clipboard, copy text copies titles and URLs to the clipboard.
+text: simple text format with page titles and URLs
+csv: format that can be opened in MS Excel and other database applications
+simple: just the URLs
+
+https://chrome.google.com/webstore/detail/tab-snap/ajjloplcjllkammemhenacfjcccockde
+Расширение для работы с ссылками.
+Возможности:
+Сохранение url всех открытых вкладок одним кликом.
+Открытие сохранённых вкладок из списка.
+Открытие url из текстового файла (.txt) или .csv
+В настойках можно установить в каком формате выводить список.
+https://i.imgur.com/qEFbLnF.png
+
+Вывод списка в текст или файл(сохранение)
 
 
 Список расширений для снятия блокирования копирования текста с сайта
