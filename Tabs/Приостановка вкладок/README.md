@@ -20,3 +20,9 @@
 Это расширение находит долго не используемые вкладки и приостанавливает их, освобождая 80% памяти, ресурсов устройства и времени работы от батареи.
 Когда вкладка снова станет активной, она автоматически вернется к нормальное состояние и вы сможете пользоваться ей как обычно.
 Также вы можете включить функцию автоматического закрытия вкладок, которая закрывает неиспользуемые вкладки и поддерживает максимальное количество открытых вкладок на заданном уровне.
+
+1. Do not suspend pinned tabs
+2. Do not suspend tabs that contain unsaved form inputs
+3. Only auto-suspend if connected to the internet
+4. Only auto-suspend if running on battery (if battery API is available)
+5. Automatically unsuspend when tab gains focus
